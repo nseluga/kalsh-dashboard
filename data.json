@@ -1,11 +1,11 @@
 {
  "days": 7,
  "totals": {
-  "runs": 65,
+  "runs": 69,
   "signals": 0,
   "fills": 0,
   "first_run": "2026-09-30T04:12:30.838081+00:00",
-  "last_run": "2026-09-30T22:23:37.098729+00:00"
+  "last_run": "2026-09-30T23:33:30.025507+00:00"
  },
  "runs": [
   {
@@ -589,6 +589,42 @@
    "env": "demo",
    "markets": 200,
    "two_sided": 0,
+   "max_volume_24h": 0.0,
+   "signals": 0,
+   "fills": 0
+  },
+  {
+   "ts": "2026-09-30T22:38:51.400867+00:00",
+   "env": "demo",
+   "markets": 200,
+   "two_sided": 0,
+   "max_volume_24h": 0.0,
+   "signals": 0,
+   "fills": 0
+  },
+  {
+   "ts": "2026-09-30T22:54:05.049582+00:00",
+   "env": "demo",
+   "markets": 200,
+   "two_sided": 0,
+   "max_volume_24h": 0.0,
+   "signals": 0,
+   "fills": 0
+  },
+  {
+   "ts": "2026-09-30T23:18:15.949290+00:00",
+   "env": "demo",
+   "markets": 200,
+   "two_sided": 4,
+   "max_volume_24h": 0.0,
+   "signals": 0,
+   "fills": 0
+  },
+  {
+   "ts": "2026-09-30T23:33:30.025507+00:00",
+   "env": "demo",
+   "markets": 200,
+   "two_sided": 19,
    "max_volume_24h": 0.0,
    "signals": 0,
    "fills": 0
